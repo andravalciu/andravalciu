@@ -1,7 +1,7 @@
 # Hi, I'm Andra Vâlciu 👋
 
 **Full-Stack Developer (React · Angular · Spring Boot · PostgreSQL)**  
-Ovidius University ’25 · NewTech Academy ’23 · UX/UI @ IT School
+Ovidius University ’25 · NewTech Academy ’23 · UX/UI 
 
 🌱 **Currently learning:**  
 React ecosystem (hooks, patterns, API handling),  
